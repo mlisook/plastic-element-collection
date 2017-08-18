@@ -1,0 +1,28 @@
+{
+  "name": "plastic-element-collection",
+  "homepage": "https://github.com/mlisook/plastic-element-collection",
+  "authors": [
+    "Murray Lisook <murray@lisook.net>"
+  ],
+  "description": "A collection of Polymer elements with extra plasticity",
+  "main": "index.html",
+  "keywords": [
+    "plastic",
+    "element-collection"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "plastic-image": "^1.0.11",
+    "plastic-aspect-ratio": "^1.0.0",
+    "plastic-map-info": "^0.0.6",
+    "paper-input-place": "^1.9.4",
+    "resize-aware": "^1.9.1"
+  }
+}
