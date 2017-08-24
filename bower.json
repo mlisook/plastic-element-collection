@@ -6,9 +6,11 @@
   ],
   "description": "A collection of Polymer elements with extra plasticity",
   "main": "index.html",
+  "version": "0.0.2",
   "keywords": [
     "plastic",
-    "element-collection"
+    "element-collection",
+    "map"
   ],
   "license": "MIT",
   "ignore": [
@@ -23,6 +25,7 @@
     "plastic-aspect-ratio": "^1.0.0",
     "plastic-map-info": "^0.0.6",
     "paper-input-place": "^1.9.4",
-    "resize-aware": "^1.9.1"
+    "resize-aware": "^1.9.1",
+    "plastic-map-marker-svg": "mlisook/plastic-map-marker-svg#^0.0.1"
   }
 }
