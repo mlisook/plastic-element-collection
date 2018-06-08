@@ -26,6 +26,7 @@
     "plastic-map-info": "mlisook/plastic-map-info#^0.0.6",
     "paper-input-place": "mlisook/paper-input-place#^1.9.4",
     "resize-aware": "mlisook/resize-aware#^2.0.0",
-    "plastic-map-marker-svg": "mlisook/plastic-map-marker-svg#^0.0.2"
+    "plastic-map-marker-svg": "mlisook/plastic-map-marker-svg#^0.0.2",
+    "plastic-resize-aware": "mlisook/plastic-resize-aware#^1.0.0"
   }
 }
