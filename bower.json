@@ -6,11 +6,15 @@
   ],
   "description": "A collection of Polymer elements with extra plasticity",
   "main": "index.html",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "keywords": [
     "plastic",
     "element-collection",
-    "map"
+    "map",
+    "Polymer 3.0",
+    "Polymer 2.0",
+    "3.0",
+    "2.0"
   ],
   "license": "MIT",
   "ignore": [
