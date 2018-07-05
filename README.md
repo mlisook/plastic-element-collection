@@ -3,6 +3,8 @@ A Collection of Polymer Elements to Provide Greater Flexibility/Plasticity to Yo
 
 All elements have versions supporting Polymer 3.0 and Polymer 2.0.
 
+See [the demonstrations site](https://mlisook.github.io/plastic-element-collection) to view each element in action, with code samples.
+
 | Element | Description | WC Link | Polymer Versions |
 | ------- | ----------- |:-----------------:|:-----------:|
 | plastic-image | Extends `iron-image` with srcset, lazy loading, webp support | [link](https://www.webcomponents.org/element/mlisook/plastic-image) | 3.0, 2.0 |
